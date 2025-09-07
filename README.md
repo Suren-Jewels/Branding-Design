@@ -29,4 +29,6 @@ These assets are used to maintain visual consistency across:
 
 ---
 
+*Note: Some credentials, contributions, or publications prior to 2025 may appear under the name Saeid "Sid" Javaherian.*
+
 > *Design is not decoration—it’s identity.*
